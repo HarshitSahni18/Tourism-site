@@ -9,8 +9,7 @@ ADVENTURE - "Where Every Journey Begins"
  -  This is a simple website
  -  Pure HTML, CSS, JavaScript used
  
- ## 🔗 To see the project
-[Tourism website](https://simple-tourism-organization.netlify.app/)
+
 
 
 ## 👓 Preview
@@ -27,11 +26,7 @@ Adventure is your passport to explore the world's most exciting destinations and
 - About: Learn more about the Adventure project, its mission, and the team behind it.
 
  
-## 👨‍💻 Contributing
-We welcome contributions from the open-source community.
-Contributions make the open source community such an amazing place to learn, inspire, and create.
-Any contributions you make are truly appreciated.
-Check out our [contribution guidelines](https://github.com/PritamSarbajna/tourism-website/blob/main/CONTRIBUTING.md) for more information.
+
 
 
 
